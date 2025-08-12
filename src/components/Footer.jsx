@@ -52,9 +52,9 @@ const Footer = () => {
             <div className="lg:col-span-2">
               <StaggerItem>
                 <div className="flex items-center mb-4 sm:mb-6">
-                  <img 
-                    src="/src/logo.png" 
-                    alt="ESM Logo" 
+                                    <img
+                    src="/logo.png"
+                    alt="ESM Logo"
                     className="w-20 h-20 sm:w-32 sm:h-32 object-contain"
                   />
                 </div>

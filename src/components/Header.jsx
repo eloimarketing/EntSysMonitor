@@ -22,9 +22,9 @@ const Header = ({ darkMode, toggleDarkMode, mobileMenuOpen, setMobileMenuOpen })
             transition={{ duration: 0.6 }}
             className="flex items-center"
           >
-            <img 
-              src="/src/logo.png" 
-              alt="ESM Logo" 
+                        <img
+              src="/logo.png"
+              alt="ESM Logo"
               className="w-20 h-20 sm:w-32 sm:h-32 object-contain"
             />
           </motion.div>
